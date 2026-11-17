@@ -23,7 +23,7 @@ tolerans süresini, süreli kara listeyi ve log sistemini destekler.
 - [Dosyalar](#-dosyalar)
 - [Sık karşılaşılan sorunlar](#-sık-karşılaşılan-sorunlar)
 - [Destek & İletişim](#-destek--iletişim)
-- [Lisans ve krediler](#-lisans-ve-krediler)
+- [Lisans](#-lisans)
 
 ---
 
@@ -267,7 +267,7 @@ Hata bildirmek, öneri vermek veya yardım almak için destek sunucusuna katıla
 
 ---
 
-## 📜 Lisans ve krediler
+## 📜 Lisans
 
 Bu proje **GNU Genel Kamu Lisansı v3.0 (GPL-3.0)** altında lisanslanmıştır.
 Yazılımı özgürce kullanabilir, değiştirebilir ve dağıtabilirsiniz; ancak aynı lisans şartlarına uymanız gerekir. Ayrıntılar için [`LICENSE`](LICENSE) dosyasına bakın.
